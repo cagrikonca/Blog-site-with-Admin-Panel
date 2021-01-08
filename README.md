@@ -1,6 +1,6 @@
 # Blog-site-with-Admin-Panel
-Blog site
-apılan blog sitesi projesi basit bir PHP, CSS ve JavaScript projesidir. Admin paneli bulunmaktadır. Nasıl Çalıştırılır? XAMPP'de Apache ve MySQL'i başlattıktan sonra aşağıdaki adımları izleyin
+
+Yapılan blog sitesi projesi basit bir PHP, CSS ve JavaScript projesidir. Admin paneli bulunmaktadır. Nasıl Çalıştırılır? XAMPP'de Apache ve MySQL'i başlattıktan sonra aşağıdaki adımları izleyin
 
 Adım : Dosyayı çıkartın
 
